@@ -10,7 +10,7 @@ Este repositório reúne os trabalhos solicitados pelos professores ao longo da 
 
 ### Conteúdo dos trabalhos
 
-- ** Número de pessoas por família ** 👨‍👩‍👧‍👦
+- **Número de pessoas por família** 👨‍👩‍👧‍👦
 
 ---
 
