@@ -1,20 +1,20 @@
-# College-Works 🎓
+#College Works 🎓
 
 Repositório com os trabalhos acadêmicos realizados durante o curso.
 
 ---
 
-## Trabalhos Realizados 📚
+##Trabalhos Realizados 📚
 
 Este repositório reúne os trabalhos solicitados pelos professores ao longo da disciplina.
 
-### Conteúdo dos trabalhos
+###Conteúdo dos trabalhos
 
 - **Número de pessoas por família** 👨‍👩‍👧‍👦
 
 ---
 
-## Tecnologias Utilizadas 💻
+##Tecnologias Utilizadas 💻
 
 - Python
 - Pandas
@@ -22,6 +22,6 @@ Este repositório reúne os trabalhos solicitados pelos professores ao longo da 
 
 ---
 
-## Autor ✍️
+##Autor ✍️
 
 Desenvolvido por [José Lucas](https://github.com/JoseChagaas)
